@@ -14,8 +14,5 @@ An interactive R Shiny dashboard that visualizes simulated Electric Vehicle (EV)
 
 🧪 Synthetic Data: Randomized dataset to showcase layout and logic—no real member data used
 
-🛠 Tech Stack
-R, Shiny, Leaflet, tidyverse, DT
-
 🎯 Purpose
 This project demonstrates my ability to build responsive, user-friendly dashboards for data storytelling and spatial analytics. While the dataset is synthetic, the structure mirrors real-world use cases in transportation policy, EV incentive programs, or utility demand planning.
